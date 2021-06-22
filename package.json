@@ -9,8 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "bootstrap": "^5.0.0-beta3",
+    "bootstrap-select": "^1.13.18",
     "next": "11.0.0",
     "react": "17.0.2",
+    "react-bootstrap-select": "^0.14.0",
     "react-dom": "17.0.2"
   },
   "devDependencies": {
